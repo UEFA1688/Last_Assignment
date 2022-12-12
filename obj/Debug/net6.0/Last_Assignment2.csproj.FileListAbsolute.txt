@@ -1,0 +1,15 @@
+C:\Users\UEFA168\Desktop\Last_Assignment2\bin\Debug\net6.0\Last_Assignment2.exe
+C:\Users\UEFA168\Desktop\Last_Assignment2\bin\Debug\net6.0\Last_Assignment2.deps.json
+C:\Users\UEFA168\Desktop\Last_Assignment2\bin\Debug\net6.0\Last_Assignment2.runtimeconfig.json
+C:\Users\UEFA168\Desktop\Last_Assignment2\bin\Debug\net6.0\Last_Assignment2.dll
+C:\Users\UEFA168\Desktop\Last_Assignment2\bin\Debug\net6.0\Last_Assignment2.pdb
+C:\Users\UEFA168\Desktop\Last_Assignment2\obj\Debug\net6.0\Last_Assignment2.csproj.AssemblyReference.cache
+C:\Users\UEFA168\Desktop\Last_Assignment2\obj\Debug\net6.0\Last_Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UEFA168\Desktop\Last_Assignment2\obj\Debug\net6.0\Last_Assignment2.AssemblyInfoInputs.cache
+C:\Users\UEFA168\Desktop\Last_Assignment2\obj\Debug\net6.0\Last_Assignment2.AssemblyInfo.cs
+C:\Users\UEFA168\Desktop\Last_Assignment2\obj\Debug\net6.0\Last_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\UEFA168\Desktop\Last_Assignment2\obj\Debug\net6.0\Last_Assignment2.dll
+C:\Users\UEFA168\Desktop\Last_Assignment2\obj\Debug\net6.0\refint\Last_Assignment2.dll
+C:\Users\UEFA168\Desktop\Last_Assignment2\obj\Debug\net6.0\Last_Assignment2.pdb
+C:\Users\UEFA168\Desktop\Last_Assignment2\obj\Debug\net6.0\Last_Assignment2.genruntimeconfig.cache
+C:\Users\UEFA168\Desktop\Last_Assignment2\obj\Debug\net6.0\ref\Last_Assignment2.dll
